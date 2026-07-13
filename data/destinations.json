@@ -1,0 +1,3465 @@
+[
+  {
+    "id": "tn-kodaikanal",
+    "name": "Kodaikanal",
+    "state": "Tamil Nadu",
+    "district": "Dindigul",
+    "overview": "Nestled amidst the Palani Hills, Kodaikanal stands as the 'Gift of the Forest' with misty pine forests and cool breezes.",
+    "history": "Established in 1845 as a summer refuge from high plains temperatures by American Christian missionaries and British bureaucrats.",
+    "whyVisit": "Perfect mountain climate, magnificent viewing points, scenic row-boating, and fresh home-made chocolate factories.",
+    "famousAttractions": [
+      "Kodaikanal Lake",
+      "Coaker's Walk",
+      "Bryant Park",
+      "Pillar Rocks",
+      "Pine Forest",
+      "Guna Caves",
+      "Silver Cascade Falls"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Homemade Chocolates",
+      "Plums & Peaches",
+      "Hot Masala Tea",
+      "Fresh Pastries"
+    ],
+    "shootingLocations": [
+      "Guna Caves (Manjummel Boys)",
+      "Pine Forest (Regional songs)"
+    ],
+    "nearbyPlaces": [
+      "Vattakanal",
+      "Mannavanur Lake",
+      "Berijam Lake"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Cool and misty (12°C - 20°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 450,
+    "baseBudget": {
+      "transportation": 1300,
+      "accommodation": 1560,
+      "food": 1040,
+      "entryTickets": 170,
+      "miscellaneous": 430
+    }
+  },
+  {
+    "id": "tn-ooty",
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "district": "The Nilgiris",
+    "overview": "Ooty, the 'Queen of Hill Stations', is situated in the high Nilgiri Hills, featuring heritage toy train lines and tea gardens.",
+    "history": "Developed as an administrative and holiday retreat by the British East India Company in the early 19th century.",
+    "whyVisit": "Spectacular sprawling tea estates, heritage mountain railway rides, botanical beauty, and vast lake boating experiences.",
+    "famousAttractions": [
+      "Botanical Gardens",
+      "Doddabetta Peak",
+      "Ooty Lake",
+      "Rose Garden",
+      "Nilgiri Mountain Railway",
+      "Pykara Falls"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Ooty Varkey",
+      "Homemade Dark Chocolates",
+      "Fresh Nilgiri Tea"
+    ],
+    "shootingLocations": [
+      "Botanical Gardens (Kuch Kuch Hota Hai)",
+      "Pykara Lake (Regional films)"
+    ],
+    "nearbyPlaces": [
+      "Coonoor",
+      "Kotagiri",
+      "Mudumalai National Park"
+    ],
+    "bestSeason": "March to June & September to November",
+    "climate": "Chilly and refreshing (10°C - 18°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 530,
+    "baseBudget": {
+      "transportation": 1350,
+      "accommodation": 1490,
+      "food": 980,
+      "entryTickets": 230,
+      "miscellaneous": 450
+    }
+  },
+  {
+    "id": "tn-mahabalipuram",
+    "name": "Mahabalipuram",
+    "state": "Tamil Nadu",
+    "district": "Chengalpattu",
+    "overview": "A UNESCO World Heritage site known for its historic rock-cut Hindu temples, carvings, and beautiful seaside shore temples.",
+    "history": "An ancient port city of the Pallava dynasty during the 7th and 8th centuries, showcasing legendary architectural milestones.",
+    "whyVisit": "Exquisite stone sculptures, pristine coastal sea views, and rich cultural legacy suitable for archaeological groups.",
+    "famousAttractions": [
+      "Shore Temple",
+      "Five Rathas",
+      "Arjuna's Penance",
+      "Krishna's Butterball",
+      "Mahabalipuram Beach"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Fresh Fish Fry",
+      "Coconut Water",
+      "Filter Coffee",
+      "South Indian Meals"
+    ],
+    "shootingLocations": [
+      "Shore Temple Backgrounds (Many classic movies)"
+    ],
+    "nearbyPlaces": [
+      "Covelong Beach",
+      "Chennai",
+      "Kanchipuram"
+    ],
+    "bestSeason": "November to February",
+    "climate": "Warm and coastal (22°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 60,
+    "baseBudget": {
+      "transportation": 500,
+      "accommodation": 1500,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tn-madurai",
+    "name": "Madurai",
+    "state": "Tamil Nadu",
+    "district": "Madurai",
+    "overview": "One of the oldest continuously inhabited cities in the world, famous for the magnificent Meenakshi Amman Temple.",
+    "history": "Historically ruled by the Pandyan Kings, Madurai is deeply tied to Tamil literature Sangam assemblies and ancient trade routes.",
+    "whyVisit": "Legendary temple architecture, buzzing midnight food markets, and rich jasmine-scented streets.",
+    "famousAttractions": [
+      "Meenakshi Amman Temple",
+      "Thirumalai Nayakar Mahal",
+      "Gandhi Memorial Museum",
+      "Koodal Azhagar Temple"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": false
+    },
+    "activities": {
+      "trekking": false,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Jigarthanda",
+      "Parotta with Salna",
+      "Idly with spicy chutneys"
+    ],
+    "shootingLocations": [
+      "Thirumalai Nayakar Mahal (Guru, Bombay)"
+    ],
+    "nearbyPlaces": [
+      "Alagar Kovil",
+      "Kodaikanal",
+      "Rameshwaram"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and cultural (24°C - 35°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 460,
+    "baseBudget": {
+      "transportation": 1350,
+      "accommodation": 1450,
+      "food": 1060,
+      "entryTickets": 150,
+      "miscellaneous": 480
+    }
+  },
+  {
+    "id": "tn-rameshwaram",
+    "name": "Rameshwaram",
+    "state": "Tamil Nadu",
+    "district": "Ramanathapuram",
+    "overview": "A sacred island town separated from mainland India by the historic Pamban Channel, holding massive mythological value.",
+    "history": "Historically associated with Lord Rama's bridge building to Lanka, it is home to the Ramanathaswamy Temple with giant corridors.",
+    "whyVisit": "Stunning train journeys over the sea Pamban Bridge, sacred beach baths, and visiting the ghost town of Dhanushkodi.",
+    "famousAttractions": [
+      "Ramanathaswamy Temple",
+      "Agni Theertham",
+      "Dhanushkodi Ghost Town",
+      "Pamban Bridge",
+      "APJ Abdul Kalam Memorial"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Sea Shell Crafts",
+      "Traditional South Indian Thali",
+      "Filter Coffee"
+    ],
+    "shootingLocations": [
+      "Pamban Bridge (Chennai Express, Kannathil Muthamittal)"
+    ],
+    "nearbyPlaces": [
+      "Kanyakumari",
+      "Madurai",
+      "Devipattinam"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Tropical coastal (23°C - 33°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 560,
+    "baseBudget": {
+      "transportation": 1600,
+      "accommodation": 1400,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tn-kanyakumari",
+    "name": "Kanyakumari",
+    "state": "Tamil Nadu",
+    "district": "Kanyakumari",
+    "overview": "The southernmost tip of mainland India, where the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet.",
+    "history": "Known historically as Cape Comorin, it was a major spiritual and trade center, renamed after Devi Kanya Kumari temple.",
+    "whyVisit": "Unique ocean sunrises and sunsets from the same beach, ferry rides to the Vivekananda Rock Memorial, and beach shells.",
+    "famousAttractions": [
+      "Vivekananda Rock Memorial",
+      "Thiruvalluvar Statue",
+      "Sunset View Point",
+      "Triveni Sangam",
+      "Kanyakumari Beach"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Nendran Banana Chips",
+      "Fish Curry",
+      "Tapioca with spicy curry"
+    ],
+    "shootingLocations": [
+      "Vivekananda Rock (Various spiritual documentaries and films)"
+    ],
+    "nearbyPlaces": [
+      "Suchindram Temple",
+      "Vattakottai Fort",
+      "Thiruvananthapuram"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Mild coastal breeze (22°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 700,
+    "baseBudget": {
+      "transportation": 1570,
+      "accommodation": 1400,
+      "food": 960,
+      "entryTickets": 130,
+      "miscellaneous": 440
+    }
+  },
+  {
+    "id": "tn-yercaud",
+    "name": "Yercaud",
+    "state": "Tamil Nadu",
+    "district": "Salem",
+    "overview": "Located in the Shevaroy Hills of the Eastern Ghats, Yercaud is a peaceful, budget-friendly mountain escape.",
+    "history": "Discovered and developed by the British administrative officials in the 19th century as a coffee cultivation experiment station.",
+    "whyVisit": "Quiet lakes, orange and coffee plantations, magnificent misty viewing hills, and low budget expenses.",
+    "famousAttractions": [
+      "Yercaud Lake",
+      "Pagoda Point",
+      "Lady's Seat",
+      "Killiyur Falls",
+      "Shevaroy Temple",
+      "Loop Road"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Fresh Pepper and Spices",
+      "Fresh Oranges",
+      "Hot Chilli Bajjis"
+    ],
+    "shootingLocations": [
+      "Loop Road (Regional travel documentaries and films)"
+    ],
+    "nearbyPlaces": [
+      "Salem",
+      "Hogenakkal Falls",
+      "Mettur Dam"
+    ],
+    "bestSeason": "October to June",
+    "climate": "Cool and pleasant (15°C - 25°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 340,
+    "baseBudget": {
+      "transportation": 1100,
+      "accommodation": 1300,
+      "food": 950,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tn-hogenakkal",
+    "name": "Hogenakkal",
+    "state": "Tamil Nadu",
+    "district": "Dharmapuri",
+    "overview": "Known as the 'Niagara Falls of India', where the Cauvery river splits into multiple majestic roaring water cascades.",
+    "history": "The name Hogenakkal is derived from Kannada meaning 'Smoky Rocks' due to the mist generated by the heavy splashing water.",
+    "whyVisit": "Exciting coracle (circular boat) rides, refreshing herbal oil massages, and tasting fresh river fish fry.",
+    "famousAttractions": [
+      "Hogenakkal Waterfalls",
+      "Melagiri Hills",
+      "Carbon Island",
+      "Children's Park"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Fried River Fish",
+      "Hot spicy rasam",
+      "Fresh fruit cuts"
+    ],
+    "shootingLocations": [
+      "Hogenakkal Cascades (Roja - Chinnah Chinnah Aasai song, Raavan)"
+    ],
+    "nearbyPlaces": [
+      "Yercaud",
+      "Dharmapuri",
+      "Krishnagiri Dam"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and refreshing (20°C - 33°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 310,
+    "baseBudget": {
+      "transportation": 900,
+      "accommodation": 1100,
+      "food": 900,
+      "entryTickets": 150,
+      "miscellaneous": 450
+    }
+  },
+  {
+    "id": "tn-coonoor",
+    "name": "Coonoor",
+    "state": "Tamil Nadu",
+    "district": "The Nilgiris",
+    "overview": "A tranquil hill station nestled in tea estates, Coonoor is famous for its panoramic viewpoints and lush valleys.",
+    "history": "Developed alongside Ooty as a secondary plantation town focusing heavily on high-yield Nilgiri tea production.",
+    "whyVisit": "Pristine peace away from Ooty crowds, walking through tea gardens, and exploring heritage viewpoints.",
+    "famousAttractions": [
+      "Sim's Park",
+      "Dolphin's Nose",
+      "Lamb's Rock",
+      "Catherine Falls",
+      "Highfield Tea Factory"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Nilgiri Tea varieties",
+      "Fresh peaches",
+      "Plum cakes",
+      "Passion fruit juice"
+    ],
+    "shootingLocations": [
+      "Lamb's Rock & Sim's Park (Kapoor & Sons)"
+    ],
+    "nearbyPlaces": [
+      "Ooty",
+      "Kotagiri",
+      "Wellington Cantonment"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Chilly and quiet (11°C - 19°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 510,
+    "baseBudget": {
+      "transportation": 1430,
+      "accommodation": 1510,
+      "food": 1010,
+      "entryTickets": 130,
+      "miscellaneous": 420
+    }
+  },
+  {
+    "id": "tn-thanjavur",
+    "name": "Thanjavur",
+    "state": "Tamil Nadu",
+    "district": "Thanjavur",
+    "overview": "The cultural capital of medieval Cholas, globally celebrated for the towering 1000-year-old Brihadeeswarar Temple.",
+    "history": "Served as the proud capital of the Chola Empire, later enriched by Nayaks and Maratha dynasties who patronized arts.",
+    "whyVisit": "Incredible ancient engineering marvels, purchase of authentic dancing dolls, and majestic paintings.",
+    "famousAttractions": [
+      "Brihadeeswarar Temple (Big Temple)",
+      "Thanjavur Royal Palace",
+      "Saraswathi Mahal Library",
+      "Schwartz Church"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": false
+    },
+    "activities": {
+      "trekking": false,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Thanjavur Degree Coffee",
+      "Asoka Halwa",
+      "Traditional Vegetarian Meals"
+    ],
+    "shootingLocations": [
+      "Brihadeeswarar Temple (Ponniyin Selvan)"
+    ],
+    "nearbyPlaces": [
+      "Kumbakonam",
+      "Trichy",
+      "Velankanni"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and heritage (24°C - 34°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 340,
+    "baseBudget": {
+      "transportation": 1200,
+      "accommodation": 1400,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "kl-munnar",
+    "name": "Munnar",
+    "state": "Kerala",
+    "district": "Idukki",
+    "overview": "Sprawling green tea estates and mist-covered valleys situated high in the Western Ghats mountain range.",
+    "history": "Developed as a plantation hub and summer resort by British officers during the late 19th century.",
+    "whyVisit": "Splendid green landscape, adventure trekking, national parks with rare Nilgiri Tahr mountain goats.",
+    "famousAttractions": [
+      "Eravikulam National Park",
+      "Mattupetty Dam",
+      "Anamudi Peak",
+      "Tea Museum",
+      "Echo Point",
+      "Attukad Waterfalls"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Kerala Parotta with Curry",
+      "Banana Chips",
+      "Cardamom Filter Tea"
+    ],
+    "shootingLocations": [
+      "Mattupetty Dam (Chennai Express)"
+    ],
+    "nearbyPlaces": [
+      "Devikulam",
+      "Marayoor",
+      "Thekkady"
+    ],
+    "bestSeason": "September to May",
+    "climate": "Cool and windy (13°C - 21°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 480,
+    "baseBudget": {
+      "transportation": 1270,
+      "accommodation": 1510,
+      "food": 1120,
+      "entryTickets": 200,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "kl-alleppey",
+    "name": "Alleppey (Alappuzha)",
+    "state": "Kerala",
+    "district": "Alappuzha",
+    "overview": "Famous for its intricate network of tropical backwaters, majestic overnight houseboats, and palm canals.",
+    "history": "A historically active port designed by Dewan Raja Kesavadas in the 18th century to trade premium spices.",
+    "whyVisit": "Leisurely cruising on backwaters, beautiful sunset beaches, and spicy hot Kerala seafood.",
+    "famousAttractions": [
+      "Alleppey Backwaters",
+      "Alappuzha Beach",
+      "Marari Beach",
+      "Vembanad Lake",
+      "Pathiramanal Island"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Pearl Spot Fish (Karimeen)",
+      "Toddy shop spicy curries",
+      "Puttu with Kadala"
+    ],
+    "shootingLocations": [
+      "Vembanad Lake (Dil Se - Jiya Jale song)"
+    ],
+    "nearbyPlaces": [
+      "Kumarakom",
+      "Kochi",
+      "Mararikulam"
+    ],
+    "bestSeason": "November to February",
+    "climate": "Tropical and humid (22°C - 31°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 590,
+    "baseBudget": {
+      "transportation": 1340,
+      "accommodation": 1680,
+      "food": 1010,
+      "entryTickets": 70,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "kl-wayanad",
+    "name": "Wayanad",
+    "state": "Kerala",
+    "district": "Wayanad",
+    "overview": "A forested hill district featuring ancient pre-historic stone caves, waterfalls, and spice plantations.",
+    "history": "Historically ruled by the Pazhassi Raja who fought valiant guerrilla warfare against the British in forests.",
+    "whyVisit": "Unique heart-shaped lake treks, visiting pre-historic rock carvings, and forest bamboo rafting.",
+    "famousAttractions": [
+      "Edakkal Caves",
+      "Banasura Sagar Dam",
+      "Chembra Peak",
+      "Soochipara Falls",
+      "Pookode Lake"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Bamboo Rice Payasam",
+      "Malabar Biryani",
+      "Unnakaya (Banana sweet)"
+    ],
+    "shootingLocations": [
+      "Banasura Sagar Dam (Various South Indian films)"
+    ],
+    "nearbyPlaces": [
+      "Coorg",
+      "Calicut",
+      "Kabini Forest"
+    ],
+    "bestSeason": "October to May",
+    "climate": "Pleasant and foggy (15°C - 25°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 300,
+    "baseBudget": {
+      "transportation": 1290,
+      "accommodation": 1560,
+      "food": 1100,
+      "entryTickets": 180,
+      "miscellaneous": 370
+    }
+  },
+  {
+    "id": "kl-thekkady",
+    "name": "Thekkady (Periyar)",
+    "state": "Kerala",
+    "district": "Idukki",
+    "overview": "Home of the Periyar National Tiger Reserve, set around a scenic artificial lake and thick cardamom plantations.",
+    "history": "Declared a sanctuary in 1934 by the Maharaja of Travancore, it has preserved incredible wildlife around the lake.",
+    "whyVisit": "Jungle boat safaris to spot wild elephants, guided nature treks, and aromatic spice shopping.",
+    "famousAttractions": [
+      "Periyar National Park",
+      "Periyar Lake Boating",
+      "Elephant Junction",
+      "Anakkara Spice Garden",
+      "Mangala Devi Temple"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Cardamom and Pepper cookies",
+      "Spiced Tapioca chips",
+      "Appam with Vegetable Stew"
+    ],
+    "shootingLocations": [
+      "Periyar Lake (Guna, Papanasam)"
+    ],
+    "nearbyPlaces": [
+      "Munnar",
+      "Vagamon",
+      "Kottayam"
+    ],
+    "bestSeason": "September to April",
+    "climate": "Cool and forest-fresh (15°C - 26°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 520,
+    "baseBudget": {
+      "transportation": 1250,
+      "accommodation": 1500,
+      "food": 1080,
+      "entryTickets": 250,
+      "miscellaneous": 420
+    }
+  },
+  {
+    "id": "kl-varkala",
+    "name": "Varkala",
+    "state": "Kerala",
+    "district": "Trivandrum",
+    "overview": "A stunning coastal town famous for its unique tall red cliffs directly overlooking the sandy Arabian Sea beaches.",
+    "history": "Known spiritually for the 2000-year-old Janardanaswamy Temple and mineral-rich springs believed to wash away sins.",
+    "whyVisit": "Watching spectacular cliff-top sunsets, beach yoga, paragliding, and dining at modern multi-cuisine cliff cafes.",
+    "famousAttractions": [
+      "Varkala Cliff Beach",
+      "Janardanaswamy Temple",
+      "Kavil Bhavan",
+      "Anjengo Fort",
+      "Kapil Lake"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Fresh Grilled Calamari",
+      "Tandoori Fish",
+      "Organic Fruit Smoothie bowls"
+    ],
+    "shootingLocations": [
+      "Varkala Cliff (Many romantic Malayalam music videos)"
+    ],
+    "nearbyPlaces": [
+      "Kovalam",
+      "Kollam",
+      "Trivandrum"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm coastal breeze (22°C - 31°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 680,
+    "baseBudget": {
+      "transportation": 1500,
+      "accommodation": 1330,
+      "food": 1170,
+      "entryTickets": 80,
+      "miscellaneous": 420
+    }
+  },
+  {
+    "id": "kl-kovalam",
+    "name": "Kovalam",
+    "state": "Kerala",
+    "district": "Trivandrum",
+    "overview": "An internationally famous beach town featuring three adjacent crescent beaches with a striped red-and-white lighthouse.",
+    "history": "Developed in the 1930s by the Regent Maharani of Travancore, putting Kovalam on the global tourism map.",
+    "whyVisit": "Sunbathing on flat sandy beaches, viewing from the iconic tall lighthouse, and enjoying Ayurvedic wellness centers.",
+    "famousAttractions": [
+      "Lighthouse Beach",
+      "Hawah Beach",
+      "Samudra Beach",
+      "Vizhinjam Rock Cut Cave Temple",
+      "Halcyon Castle"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Avial and Rice",
+      "Squid fry",
+      "Malabar Fish Curry"
+    ],
+    "shootingLocations": [
+      "Lighthouse Beach (Many vintage Indian films)"
+    ],
+    "nearbyPlaces": [
+      "Varkala",
+      "Trivandrum City",
+      "Poovar Island"
+    ],
+    "bestSeason": "September to March",
+    "climate": "Warm and coastal (23°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 710,
+    "baseBudget": {
+      "transportation": 1530,
+      "accommodation": 1450,
+      "food": 1040,
+      "entryTickets": 80,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "kl-kumarakom",
+    "name": "Kumarakom",
+    "state": "Kerala",
+    "district": "Kottayam",
+    "overview": "A cluster of little islands on the massive Vembanad Lake, famous for lush bird sanctuaries and peaceful backwaters.",
+    "history": "The area was reclaimed from lake wetlands in the 19th century by English farmer George Alfred Baker, transforming it into a paradise.",
+    "whyVisit": "Bird-watching expeditions, premium lake sunset houseboats, and relaxing in calm tropical nature.",
+    "famousAttractions": [
+      "Kumarakom Bird Sanctuary",
+      "Vembanad Lake",
+      "Aruvikkuzhi Waterfall",
+      "Bay Island Driftwood Museum"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Karimeen Mappas (Fish Curry)",
+      "Duck Roast",
+      "Kappa and Fish curry"
+    ],
+    "shootingLocations": [
+      "Vembanad Lake resorts (Luxury escape backdrops in films)"
+    ],
+    "nearbyPlaces": [
+      "Alleppey",
+      "Kottayam",
+      "Vagamon"
+    ],
+    "bestSeason": "November to February",
+    "climate": "Warm and peaceful (21°C - 30°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 570,
+    "baseBudget": {
+      "transportation": 1340,
+      "accommodation": 1640,
+      "food": 1040,
+      "entryTickets": 110,
+      "miscellaneous": 370
+    }
+  },
+  {
+    "id": "kl-athirappilly",
+    "name": "Athirappilly",
+    "state": "Kerala",
+    "district": "Thrissur",
+    "overview": "A dramatic 80-foot tall waterfall located on the Chalakudy river, surrounded by biodiverse rainforests.",
+    "history": "Referred to as the 'Niagara of India', it flows through the Sholayar range, holding rich populations of hornbills.",
+    "whyVisit": "Admiring the massive thundering water, forest trekking, and exploring the green wilderness.",
+    "famousAttractions": [
+      "Athirappilly Waterfalls",
+      "Vazhachal Falls",
+      "Charpa Falls",
+      "Thumboormuzhi Dam & Butterfly Park"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Puzha Meen Curry (River fish curry)",
+      "Tapioca mash",
+      "Lime juice"
+    ],
+    "shootingLocations": [
+      "Athirappilly Falls (Baahubali waterfall, Dil Se - Barso Re song)"
+    ],
+    "nearbyPlaces": [
+      "Kochi",
+      "Valparai",
+      "Thrissur"
+    ],
+    "bestSeason": "September to January",
+    "climate": "Humid and tropical (22°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 520,
+    "baseBudget": {
+      "transportation": 1300,
+      "accommodation": 1600,
+      "food": 1100,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "kl-kochi",
+    "name": "Kochi (Fort Kochi)",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "overview": "A vibrant coastal city showing a fascinating blend of Portuguese, Dutch, British, and traditional Malabar heritage.",
+    "history": "Known as the 'Queen of the Arabian Sea', Kochi was a premier global spice trading center from the 14th century onward.",
+    "whyVisit": "Photographing historic Chinese fishing nets, exploring old Fort Kochi, art galleries, and historic Jewish synagogues.",
+    "famousAttractions": [
+      "Fort Kochi",
+      "Chinese Fishing Nets",
+      "Mattancherry Palace (Dutch Palace)",
+      "Paradesi Synagogue",
+      "Marine Drive"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Kochi Beef Fry with Porotta",
+      "Kerala Biryani",
+      "Banana Fritters (Pazham Pori)"
+    ],
+    "shootingLocations": [
+      "Fort Kochi Streets (Kammatipaadam, Bangalore Days)"
+    ],
+    "nearbyPlaces": [
+      "Alleppey",
+      "Athirappilly Falls",
+      "Cherai Beach"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Coastal and tropical (24°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 550,
+    "baseBudget": {
+      "transportation": 1240,
+      "accommodation": 1480,
+      "food": 1160,
+      "entryTickets": 120,
+      "miscellaneous": 500
+    }
+  },
+  {
+    "id": "kl-vagamon",
+    "name": "Vagamon",
+    "state": "Kerala",
+    "district": "Idukki",
+    "overview": "A quiet, offbeat hill station covered with velvet green pine forests, rolling meadows, and mist-laden tea gardens.",
+    "history": "Developed during the British plantation era, Vagamon was kept largely isolated and pristine, retaining natural charm.",
+    "whyVisit": "Gliding on green pine needle trails, peaceful paragliding, and walking over undulating scenic green hills.",
+    "famousAttractions": [
+      "Vagamon Pine Forest",
+      "Vagamon Kurisumala",
+      "Vagamon Lake",
+      "Marmala Waterfall",
+      "Pine Valley"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Inji Puli (Ginger sweet curry)",
+      "Beef fry",
+      "Hot cardamom tea"
+    ],
+    "shootingLocations": [
+      "Pine Forest (Various regional romantic songs)"
+    ],
+    "nearbyPlaces": [
+      "Munnar",
+      "Thekkady",
+      "Kottayam"
+    ],
+    "bestSeason": "September to May",
+    "climate": "Chilly and misty (12°C - 22°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 490,
+    "baseBudget": {
+      "transportation": 1400,
+      "accommodation": 1500,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ka-coorg",
+    "name": "Coorg (Kodagu)",
+    "state": "Karnataka",
+    "district": "Kodagu",
+    "overview": "Coorg, dubbed the 'Scotland of India', is a scenic mountain district covered with coffee plantations and sandalwood forests.",
+    "history": "An independent kingdom ruled by the Haleri dynasty, later annexed by the British in 1834 after the Coorg War.",
+    "whyVisit": "Aromatic coffee plantation tours, cascading waterfalls, and visiting Tibetan golden monasteries.",
+    "famousAttractions": [
+      "Abbey Falls",
+      "Raja's Seat",
+      "Namdroling Monastery (Golden Temple)",
+      "Dubare Elephant Camp",
+      "Talakaveri"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Kadambuttu (Rice balls)",
+      "Pandhi Curry (Kodava Pork Speciality)",
+      "Filter Coffee"
+    ],
+    "shootingLocations": [
+      "Abbey Falls & Raja's Seat (Mungaru Male)"
+    ],
+    "nearbyPlaces": [
+      "Chikmagalur",
+      "Mysore",
+      "Wayanad"
+    ],
+    "bestSeason": "October to April",
+    "climate": "Pleasant and foggy (15°C - 23°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 550,
+    "baseBudget": {
+      "transportation": 1370,
+      "accommodation": 1530,
+      "food": 1040,
+      "entryTickets": 160,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ka-gokarna",
+    "name": "Gokarna",
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "overview": "A unique sacred temple town that transforms into a peaceful crescent beach paradise for ocean-loving travelers.",
+    "history": "Venerated in scriptures as the home of the sacred Shiva Atmalinga, later evolving into a beach escape alternative to Goa.",
+    "whyVisit": "Breathtaking beach treks over rocky headlands, dynamic ocean-side camping, and peaceful beach shacks.",
+    "famousAttractions": [
+      "Om Beach",
+      "Kudle Beach",
+      "Half Moon Beach",
+      "Paradise Beach",
+      "Mahabaleshwar Temple",
+      "Mirjan Fort"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Banana Buns",
+      "Garlic Butter Prawns",
+      "Woodfired Pizzas"
+    ],
+    "shootingLocations": [
+      "Om Beach (Many Kannada romantic movies)"
+    ],
+    "nearbyPlaces": [
+      "Murudeshwar",
+      "Karwar",
+      "Yana Caves"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and breezy (24°C - 32°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 680,
+    "baseBudget": {
+      "transportation": 1800,
+      "accommodation": 1290,
+      "food": 1030,
+      "entryTickets": 40,
+      "miscellaneous": 340
+    }
+  },
+  {
+    "id": "ka-hampi",
+    "name": "Hampi",
+    "state": "Karnataka",
+    "district": "Vijayanagara",
+    "overview": "An awe-inspiring UNESCO World Heritage site displaying the dramatic ruins of the medieval Vijayanagara Empire.",
+    "history": "Served as the ultra-opulent capital of the Vijayanagara Empire in the 14th century, legendary for wealth and temples.",
+    "whyVisit": "Walking through boulder-strewn archaeological ruins, river crossing in coracles, and massive stone chariot viewing.",
+    "famousAttractions": [
+      "Virupaksha Temple",
+      "Stone Chariot at Vittala Temple",
+      "Lotus Mahal",
+      "Hemakuta Hill Sunset",
+      "Matanga Hill"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Traditional Karnataka Meals",
+      "Crisp Dosas",
+      "Bisi Bele Bath"
+    ],
+    "shootingLocations": [
+      "Hampi Ruins (Mythology epics and adventure regional films)"
+    ],
+    "nearbyPlaces": [
+      "Badami",
+      "Anegundi",
+      "Hubli"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Dry and historic (18°C - 34°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 370,
+    "baseBudget": {
+      "transportation": 1300,
+      "accommodation": 1400,
+      "food": 1000,
+      "entryTickets": 150,
+      "miscellaneous": 500
+    }
+  },
+  {
+    "id": "ka-mysore",
+    "name": "Mysore (Mysuru)",
+    "state": "Karnataka",
+    "district": "Mysuru",
+    "overview": "The heritage city of palaces, sandalwood, and royal cultural charm, celebrating the majestic Mysore Palace.",
+    "history": "Served as the capital of the Kingdom of Mysore under the Wodeyar dynasty and Tiger of Mysore, Tipu Sultan.",
+    "whyVisit": "Incredible Palace light displays, purchasing premium Mysore Silk sarees, and tasting royal Mysore Pak sweet.",
+    "famousAttractions": [
+      "Mysore Palace",
+      "Chamundi Hill Temple",
+      "Brindavan Gardens",
+      "Philomena's Church",
+      "Mysore Zoo"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Mysore Masala Dosa",
+      "Mysore Pak (Ghee sweet)",
+      "Idly and Vada"
+    ],
+    "shootingLocations": [
+      "Mysore Palace (Many historic and period dramas)"
+    ],
+    "nearbyPlaces": [
+      "Coorg",
+      "Srirangapatna",
+      "Bandipur"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Pleasant and warm (18°C - 30°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 480,
+    "baseBudget": {
+      "transportation": 1240,
+      "accommodation": 1530,
+      "food": 1050,
+      "entryTickets": 190,
+      "miscellaneous": 480
+    }
+  },
+  {
+    "id": "ka-chikmagalur",
+    "name": "Chikmagalur",
+    "state": "Karnataka",
+    "district": "Chikmagalur",
+    "overview": "The coffee birthplace of India, featuring lush green misty mountain ranges, waterfalls, and adventure trails.",
+    "history": "Historically, Baba Budan, a 17th-century Sufi saint, smuggled seven coffee beans from Yemen and planted them here.",
+    "whyVisit": "Trekking to the highest peak in Karnataka (Mullayanagiri), coffee estate homestays, and pristine waterfalls.",
+    "famousAttractions": [
+      "Mullayanagiri Peak",
+      "Baba Budangiri Hills",
+      "Hebbe Falls",
+      "Kemmangundi",
+      "Z Point"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Malnad Style Chicken Curry",
+      "Akki Roti",
+      "Baba Budan Coffee"
+    ],
+    "shootingLocations": [
+      "Mullayanagiri Peak (Kannada adventure and survival films)"
+    ],
+    "nearbyPlaces": [
+      "Coorg",
+      "Halebidu",
+      "Belur"
+    ],
+    "bestSeason": "September to May",
+    "climate": "Cool and misty (14°C - 23°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 600,
+    "baseBudget": {
+      "transportation": 1380,
+      "accommodation": 1560,
+      "food": 1040,
+      "entryTickets": 90,
+      "miscellaneous": 430
+    }
+  },
+  {
+    "id": "ka-badami",
+    "name": "Badami",
+    "state": "Karnataka",
+    "district": "Bagalkot",
+    "overview": "An ancient town set in a red sandstone ravine, globally famous for its 6th-century rock-cut cave temples.",
+    "history": "Formerly known as Vatapi, it served as the proud capital of the early Chalukyas who pioneered temple architecture.",
+    "whyVisit": "Exploring intricately carved red caves, viewing the historic Bhutanatha temples bordering Agastya Lake.",
+    "famousAttractions": [
+      "Badami Cave Temples",
+      "Bhutanatha Temples",
+      "Badami Fort",
+      "Agastya Lake",
+      "Banashankari Temple"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Jolada Roti with Ennegayi (Brinjal curry)",
+      "Shenga chutney",
+      "Sajjige"
+    ],
+    "shootingLocations": [
+      "Badami Caves (Guru, Magadheera)"
+    ],
+    "nearbyPlaces": [
+      "Pattadakal",
+      "Aihole",
+      "Hampi"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and sandstone dry (20°C - 34°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 420,
+    "baseBudget": {
+      "transportation": 1200,
+      "accommodation": 1200,
+      "food": 900,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ka-bandipur",
+    "name": "Bandipur National Park",
+    "state": "Karnataka",
+    "district": "Chamarajanagar",
+    "overview": "A sprawling tiger reserve located at the tri-junction of Karnataka, Tamil Nadu, and Kerala, forming part of Nilgiri Biosphere.",
+    "history": "Once a private hunting ground for the Maharaja of Mysore, it was declared a national park under Project Tiger in 1974.",
+    "whyVisit": "Jungle open-jeep safaris to catch glimpses of wild tigers, leopards, herds of Asian elephants, and deer.",
+    "famousAttractions": [
+      "Bandipur Tiger Reserve Safari",
+      "Himavad Gopalaswamy Betta Peak",
+      "Kabini River",
+      "Mudumalai border"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": false,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Ragi Mudde with Saaru",
+      "Spicy Chicken Fry",
+      "Fresh wild honey products"
+    ],
+    "shootingLocations": [
+      "Bandipur forest roads (Many regional forest escape scenes)"
+    ],
+    "nearbyPlaces": [
+      "Ooty",
+      "Mysore",
+      "Wayanad"
+    ],
+    "bestSeason": "October to May",
+    "climate": "Forest fresh (16°C - 29°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 500,
+    "baseBudget": {
+      "transportation": 1110,
+      "accommodation": 1720,
+      "food": 1030,
+      "entryTickets": 320,
+      "miscellaneous": 320
+    }
+  },
+  {
+    "id": "ka-jogfalls",
+    "name": "Jog Falls",
+    "state": "Karnataka",
+    "district": "Shivamogga",
+    "overview": "The second-highest plunge waterfall in India, where the Sharavathi river drops a spectacular 830 feet.",
+    "history": "The falls are divided into four distinct cascades: Raja, Rani, Roarer, and Rocket, creating a mesmerizing cloud of spray.",
+    "whyVisit": "Marvelling at the massive wall of cascading water, trekking down 1400 steps to the pool base.",
+    "famousAttractions": [
+      "Jog Falls Viewpoint",
+      "Sharavathi Valley Wildlife Sanctuary",
+      "Linganamakki Dam",
+      "Dabbeh Falls"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Shivamogga spiced upma",
+      "Pathrode",
+      "Jackfruit fritters"
+    ],
+    "shootingLocations": [
+      "Jog Falls (Mungaru Male)"
+    ],
+    "nearbyPlaces": [
+      "Gokarna",
+      "Murudeshwar",
+      "Shivamogga"
+    ],
+    "bestSeason": "July to December",
+    "climate": "Humid and misty (18°C - 28°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 650,
+    "baseBudget": {
+      "transportation": 1500,
+      "accommodation": 1300,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ka-murudeshwar",
+    "name": "Murudeshwar",
+    "state": "Karnataka",
+    "district": "Uttara Kannada",
+    "overview": "Home to the world's second-tallest statue of Lord Shiva, backdropped by the scenic Arabian Sea waves.",
+    "history": "Historically part of the Ramayana Atmalinga trail, developed beautifully into a modern marvel with a tall 20-story Gopura.",
+    "whyVisit": "Viewing the towering Shiva statue, visiting the beach temple, and scuba diving at nearby Netrani Island.",
+    "famousAttractions": [
+      "Murudeshwar Temple & Gopura",
+      "Giant Shiva Statue",
+      "Murudeshwar Beach",
+      "Netrani Island (Scuba diving)"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Coastal Fish Thali",
+      "Neer Dosa with coconut chutney",
+      "Mangalore buns"
+    ],
+    "shootingLocations": [
+      "Murudeshwar Statue (Many regional spiritual and action films)"
+    ],
+    "nearbyPlaces": [
+      "Gokarna",
+      "Idagunji Temple",
+      "Kollur Mookambika"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Coastal and tropical (24°C - 33°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 660,
+    "baseBudget": {
+      "transportation": 1650,
+      "accommodation": 1290,
+      "food": 1010,
+      "entryTickets": 90,
+      "miscellaneous": 460
+    }
+  },
+  {
+    "id": "ka-nandihills",
+    "name": "Nandi Hills",
+    "state": "Karnataka",
+    "district": "Chikkaballapur",
+    "overview": "An ancient hill fortress offering spectacular misty sunrise views above the clouds, very close to Bangalore.",
+    "history": "Used as a summer fortress by Tipu Sultan, who built Tipu's Drop from where prisoners were pushed off.",
+    "whyVisit": "Watching the dramatic morning mist reveal the plains, heritage cycling, and quiet weekend picnics.",
+    "famousAttractions": [
+      "Nandi Hills Sunrise Viewpoint",
+      "Tipu's Drop",
+      "Bhoga Nandeeshwara Temple",
+      "Amrita Sarovar"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Chitranna (Lemon Rice)",
+      "Hot Mirchi Bajji",
+      "Sweet filter coffee"
+    ],
+    "shootingLocations": [
+      "Nandi Hills Peak (Many modern youth music videos and regional movies)"
+    ],
+    "nearbyPlaces": [
+      "Bangalore City",
+      "Chikkaballapur",
+      "Lepakshi"
+    ],
+    "bestSeason": "Year-round",
+    "climate": "Cool and windy (15°C - 25°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 380,
+    "baseBudget": {
+      "transportation": 800,
+      "accommodation": 1500,
+      "food": 950,
+      "entryTickets": 50,
+      "miscellaneous": 300
+    }
+  },
+  {
+    "id": "ap-araku",
+    "name": "Araku Valley",
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "overview": "Araku Valley is a scenic hill station in the Eastern Ghats, famous for its lush organic coffee plantations and ancient caves.",
+    "history": "Home to multiple indigenous tribal communities, developed as a premier coffee cultivation zone during the early 20th century.",
+    "whyVisit": "Exploring deep limestone Borra Caves with stalactites, tasting famous local bamboo chicken, and tribal museums.",
+    "famousAttractions": [
+      "Borra Caves",
+      "Araku Tribal Museum",
+      "Padmapuram Gardens",
+      "Katiki Waterfalls",
+      "Coffee Museum",
+      "Chaparai Cascade"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Bamboo Chicken",
+      "Araku Organic Coffee",
+      "Chodi Sankati (Ragi food)"
+    ],
+    "shootingLocations": [
+      "Borra Caves (Darling, Legend)"
+    ],
+    "nearbyPlaces": [
+      "Ananthagiri Hills",
+      "Vizag",
+      "Lambasingi"
+    ],
+    "bestSeason": "September to March",
+    "climate": "Chilly mornings (12°C - 22°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 620,
+    "baseBudget": {
+      "transportation": 1390,
+      "accommodation": 1480,
+      "food": 1020,
+      "entryTickets": 230,
+      "miscellaneous": 370
+    }
+  },
+  {
+    "id": "ap-tirupati",
+    "name": "Tirupati",
+    "state": "Andhra Pradesh",
+    "district": "Tirupati",
+    "overview": "The ultimate spiritual capital of Andhra Pradesh, hosting the world-famous hilltop Venkateswara Temple in Tirumala.",
+    "history": "Mentioned in Rig Veda and Puranas, the hilltop temple is a historical masterpiece patronized by Pallavas, Cholas, and Vijayanagara Kings.",
+    "whyVisit": "Experiencing the massive spiritual scale, viewing ancient rock-cut arch geomorphic marvels, and tasting delicious prasadam.",
+    "famousAttractions": [
+      "Venkateswara Temple (Tirumala)",
+      "Silathoranam (Natural Arch)",
+      "Kapila Theertham",
+      "Chandragiri Fort",
+      "Sri Kalahasti"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Tirupati Laddu",
+      "Sambar Rice",
+      "Crisp Vadas",
+      "Rava Dosa"
+    ],
+    "shootingLocations": [
+      "Tirumala Hills (Numerous devotional movies and epics)"
+    ],
+    "nearbyPlaces": [
+      "Sri Kalahasti",
+      "Kanipakam",
+      "Horsley Hills"
+    ],
+    "bestSeason": "September to March",
+    "climate": "Warm and spiritual (22°C - 34°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 140,
+    "baseBudget": {
+      "transportation": 700,
+      "accommodation": 1500,
+      "food": 1000,
+      "entryTickets": 200,
+      "miscellaneous": 500
+    }
+  },
+  {
+    "id": "ap-visakhapatnam",
+    "name": "Visakhapatnam (Vizag)",
+    "state": "Andhra Pradesh",
+    "district": "Visakhapatnam",
+    "overview": "A beautiful coastal city with sand beaches on one side and the Eastern Ghats hills bordering on the other.",
+    "history": "Deep-water natural port historically dominated by regional empires and later the British, now hosting the Eastern Naval Command.",
+    "whyVisit": "Strolling on long beaches, visiting a real decommissioned Navy submarine museum, and scenic hilltop cable car rides.",
+    "famousAttractions": [
+      "Kailasagiri Hill Park",
+      "Ramakrishna Beach",
+      "INS Kursura Submarine Museum",
+      "Yarada Beach",
+      "Rishikonda Beach"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Spicy Crab Fry",
+      "Vizag beach corn masala",
+      "Punugulu (Rice flour snacks)"
+    ],
+    "shootingLocations": [
+      "Yarada Beach (Many Tollywood movie songs)"
+    ],
+    "nearbyPlaces": [
+      "Araku Valley",
+      "Bheemli Beach",
+      "Simhachalam Temple"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Tropical coastal (23°C - 32°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 600,
+    "baseBudget": {
+      "transportation": 1310,
+      "accommodation": 1570,
+      "food": 1050,
+      "entryTickets": 130,
+      "miscellaneous": 440
+    }
+  },
+  {
+    "id": "ap-gandikota",
+    "name": "Gandikota",
+    "state": "Andhra Pradesh",
+    "district": "Kadapa",
+    "overview": "Often called the 'Grand Canyon of India', Gandikota is a stunning gorge formed by the Pennar river cutting through stone cliffs.",
+    "history": "The spectacular Gandikota Fort, built in the 12th century, contains historical Islamic palaces, mosques, and Hindu temples.",
+    "whyVisit": "Camping directly on the edge of the deep canyon, exploring red sandstone fortress ruins, and dramatic sunset photography.",
+    "famousAttractions": [
+      "Gandikota Canyon Viewpoint",
+      "Gandikota Fort ruins",
+      "Madhavaraya Temple",
+      "Jama Masjid",
+      "Rayalacheruvu Lake"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Rayalaseema Ragi Sangati",
+      "Spicy Gongura mutton",
+      "Ulavacharu"
+    ],
+    "shootingLocations": [
+      "Gandikota Canyon (Maryada Ramanna, high budget song sequences)"
+    ],
+    "nearbyPlaces": [
+      "Belum Caves",
+      "Yaganti Temple",
+      "Tadipatri"
+    ],
+    "bestSeason": "September to February",
+    "climate": "Warm days, breezy nights (18°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 360,
+    "baseBudget": {
+      "transportation": 1200,
+      "accommodation": 1300,
+      "food": 950,
+      "entryTickets": 50,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ap-lambasingi",
+    "name": "Lambasingi",
+    "state": "Andhra Pradesh",
+    "district": "Alluri Sitharama Raju",
+    "overview": "A tiny offbeat village known as the 'Kashmir of Andhra Pradesh', experiencing thick winter fog and near-freezing temperatures.",
+    "history": "Nestled deep in forested hills, this village was traditionally isolated, maintaining rich coffee plantations and organic orchards.",
+    "whyVisit": "Walking through early-morning frost, tasting fresh apples, and camping in absolute silence and fog.",
+    "famousAttractions": [
+      "Lambasingi View Point",
+      "Thajangi Reservoir",
+      "Kothapalli Waterfalls",
+      "Susan Garden (Yellow flower farm)"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Organic strawberry juice",
+      "Bamboo chicken curry",
+      "Hot ginger tea"
+    ],
+    "shootingLocations": [
+      "Susan Garden (Tollywood dream songs)"
+    ],
+    "nearbyPlaces": [
+      "Araku Valley",
+      "Yerravaram Waterfalls",
+      "Ananthagiri"
+    ],
+    "bestSeason": "November to January",
+    "climate": "Very cold and foggy (5°C - 15°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 610,
+    "baseBudget": {
+      "transportation": 1550,
+      "accommodation": 1450,
+      "food": 1060,
+      "entryTickets": 50,
+      "miscellaneous": 390
+    }
+  },
+  {
+    "id": "ap-horsleyhills",
+    "name": "Horsley Hills",
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "overview": "A peaceful series of hills covered with dense eucalyptus, mahogany, and jacaranda trees, offering immense tranquility.",
+    "history": "Named after W.D. Horsley, a British collector who fell in love with the cool climate and built his summer cottage in 1870.",
+    "whyVisit": "Walking along tree-shaded windy paths, viewing valleys from high cliffs, and visiting the historic forest museum.",
+    "famousAttractions": [
+      "Horsley Hills Viewpoint",
+      "Kalyani Eucalyptus Tree",
+      "Gali Bandalu (Wind Rocks)",
+      "Horsley Hills Zoo",
+      "Gangotri Lake"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Spicy Chittoor Biryani",
+      "Eucalyptus Oils",
+      "Ragi Sangati with chicken curry"
+    ],
+    "shootingLocations": [
+      "Wind Rocks (Regional romantic scenes)"
+    ],
+    "nearbyPlaces": [
+      "Tirupati",
+      "Madanapalle",
+      "Gurramkonda Fort"
+    ],
+    "bestSeason": "September to May",
+    "climate": "Cool and aromatic (16°C - 26°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 260,
+    "baseBudget": {
+      "transportation": 1000,
+      "accommodation": 1400,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ap-lepakshi",
+    "name": "Lepakshi",
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "overview": "A prominent archaeological heritage village celebrated for its incredible 16th-century Veerabhadra Temple.",
+    "history": "Historically built by brothers Viranna and Virupanna, Lepakshi is famous for its gravity-defying hanging pillar and massive monolithic Nandi bull.",
+    "whyVisit": "Studying ancient Vijayanagara fresco ceiling paintings, posing next to the giant monolithic stone Nandi, and hanging paper beneath the pillar.",
+    "famousAttractions": [
+      "Veerabhadra Temple",
+      "Monolithic Nandi",
+      "Jatayu Theme Park",
+      "Hanging Pillar",
+      "Lepakshi Heritage museum"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": false
+    },
+    "activities": {
+      "trekking": false,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Lepakshi traditional snacks",
+      "Crisp Masala Vada",
+      "Andhra meals"
+    ],
+    "shootingLocations": [
+      "Lepakshi Temple (Many historical regional films)"
+    ],
+    "nearbyPlaces": [
+      "Nandi Hills",
+      "Hindupur",
+      "Bangalore"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Mild and historical (20°C - 33°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 120,
+    "baseBudget": {
+      "transportation": 800,
+      "accommodation": 1100,
+      "food": 850,
+      "entryTickets": 50,
+      "miscellaneous": 350
+    }
+  },
+  {
+    "id": "ap-vijayawada",
+    "name": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "district": "NTR",
+    "overview": "A bustling city located on the banks of the sacred Krishna River, famous for the cave temples and Kanaka Durga temple.",
+    "history": "Known historically as Bezawada, it was a major post-Satavahana dynasty trading city and Buddhist learning center.",
+    "whyVisit": "Exploring the ancient rock-cut Undavalli caves, cruising on the Krishna river, and walking on Prakasam Barrage.",
+    "famousAttractions": [
+      "Kanaka Durga Temple",
+      "Undavalli Cave Temples",
+      "Bhavani Island",
+      "Prakasam Barrage",
+      "Kondapalli Fort"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Kondapalli wooden toys",
+      "Vijayawada Biryani",
+      "Mirchi Bajji with onions"
+    ],
+    "shootingLocations": [
+      "Undavalli Caves (Tollywood movies, classic song locations)"
+    ],
+    "nearbyPlaces": [
+      "Amaravati",
+      "Mangalagiri Temple",
+      "Kolleru Lake"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and lively (22°C - 33°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 450,
+    "baseBudget": {
+      "transportation": 1200,
+      "accommodation": 1500,
+      "food": 1100,
+      "entryTickets": 150,
+      "miscellaneous": 500
+    }
+  },
+  {
+    "id": "ap-srisailam",
+    "name": "Srisailam",
+    "state": "Andhra Pradesh",
+    "district": "Nandyal",
+    "overview": "A holy forest sanctuary holding the sacred Mallikarjuna Jyotirlinga temple, backdropped by the massive Nallamala Hills and Krishna river.",
+    "history": "Historically worshipped for centuries, it is also home to a giant Tiger Reserve and Srisailam Hydroelectric Dam.",
+    "whyVisit": "Riding ropeway cable cars over the river gorge, forest boating, temple exploration, and tiger sanctuary routes.",
+    "famousAttractions": [
+      "Mallikarjuna Temple",
+      "Srisailam Dam",
+      "Pathala Ganga (Ropeway & Boating)",
+      "Nallamala Tiger Sanctuary",
+      "Sikharam Temple"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Srisailam Forest honey",
+      "Traditional Temple Prasadam",
+      "Andhra thali"
+    ],
+    "shootingLocations": [
+      "Pathala Ganga (Spiritual travelogues and movies)"
+    ],
+    "nearbyPlaces": [
+      "Nagarjuna Sagar",
+      "Mahanandi",
+      "Hyderabad"
+    ],
+    "bestSeason": "September to March",
+    "climate": "Forest fresh (18°C - 30°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 480,
+    "baseBudget": {
+      "transportation": 1300,
+      "accommodation": 1400,
+      "food": 1000,
+      "entryTickets": 150,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "ap-amaravati",
+    "name": "Amaravati",
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "overview": "An ancient spiritual town on the banks of Krishna river, showcasing massive Buddhist heritage monuments and modern capital banks.",
+    "history": "Dating back to the 2nd century BCE, it was the proud capital of Satavahanas and a globally renowned Mahachaitya Buddhist university.",
+    "whyVisit": "Admiring the giant 125-foot Dhyana Buddha statue, visiting archaeological museums, and peaceful riverbank strolls.",
+    "famousAttractions": [
+      "Dhyana Buddha Statue",
+      "Amaravati Stupa (Mahachaitya)",
+      "Amaralingeswara Temple",
+      "Archaeological Museum"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Andhra Gongura Pickle",
+      "Idly with Ghee podi",
+      "Andhra Vegetarian meals"
+    ],
+    "shootingLocations": [
+      "Dhyana Buddha Statue grounds (Devotional and administrative media)"
+    ],
+    "nearbyPlaces": [
+      "Vijayawada",
+      "Kondaveedu Fort",
+      "Mangalagiri"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and historical (23°C - 33°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 440,
+    "baseBudget": {
+      "transportation": 1200,
+      "accommodation": 1300,
+      "food": 950,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tg-hyderabad",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "overview": "The globally famous City of Pearls, Hyderabad offers a beautiful blend of rich Nizami history and modern technology hubs.",
+    "history": "Founded in 1591 by Muhammad Quli Qutb Shah, ruled by Nizams who gathered treasures, pearls, and diamonds.",
+    "whyVisit": "Historic monument tours, shopping for pearls in old bazaars, and tasting authentic Hyderabadi Dum Biryani.",
+    "famousAttractions": [
+      "Charminar",
+      "Golconda Fort",
+      "Ramoji Film City",
+      "Salar Jung Museum",
+      "Chowmahalla Palace",
+      "Hussain Sagar Lake"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Hyderabadi Dum Biryani",
+      "Haleem",
+      "Double Ka Meetha",
+      "Irani Chai with Osmania Biscuits"
+    ],
+    "shootingLocations": [
+      "Ramoji Film City (Baahubali, RRR)"
+    ],
+    "nearbyPlaces": [
+      "Ananthagiri Hills",
+      "Warangal",
+      "Nagarjuna Sagar"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Moderate and warm (18°C - 30°C)",
+    "recommendedDuration": "3 Days, 2 Nights",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 650,
+    "baseBudget": {
+      "transportation": 1050,
+      "accommodation": 1550,
+      "food": 1130,
+      "entryTickets": 280,
+      "miscellaneous": 490
+    }
+  },
+  {
+    "id": "tg-warangal",
+    "name": "Warangal",
+    "state": "Telangana",
+    "district": "Warangal",
+    "overview": "An ancient capital celebrated for its incredible Kakatiya-era stone temples, fortress arches, and beautiful lakes.",
+    "history": "Served as the proud capital of the Kakatiya Dynasty in the 12th century, ruled by legendary Queen Rudrama Devi.",
+    "whyVisit": "Exploring symmetric stone carvings, boating in floating island lakes, and viewing massive stone gateway arches.",
+    "famousAttractions": [
+      "Thousand Pillar Temple",
+      "Warangal Fort Ruins",
+      "Kakatiya Kala Thoranam",
+      "Bhadrakali Temple",
+      "Laknavaram Suspension Bridge"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Sarva Pindi (Telangana rice pancake)",
+      "Spicy Country Chicken curry",
+      "Ariselu sweet"
+    ],
+    "shootingLocations": [
+      "Warangal Fort (Rudramadevi movie)"
+    ],
+    "nearbyPlaces": [
+      "Ramappa Temple",
+      "Pakhal Lake",
+      "Hyderabad"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and cultural (20°C - 33°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 150,
+    "baseBudget": {
+      "transportation": 800,
+      "accommodation": 1400,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tg-nagarjunasagar",
+    "name": "Nagarjuna Sagar",
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "overview": "The site of the world's largest masonry dam, built across the Krishna river, creating a massive water reservoir.",
+    "history": "Historically named after Buddhist master Nagarjuna who lived here, now holding a beautiful Buddhist island museum.",
+    "whyVisit": "Cruising on massive passenger ferries, exploring the Buddhist museum island, and viewing high-pressure dam water gates.",
+    "famousAttractions": [
+      "Nagarjuna Sagar Dam",
+      "Nagarjunakonda Island Museum",
+      "Ethipothala Waterfalls",
+      "Launch Station"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Freshly caught fried river fish",
+      "Local country chicken curry",
+      "Tender coconut"
+    ],
+    "shootingLocations": [
+      "Nagarjuna Sagar (Many old classical Indian film sequences)"
+    ],
+    "nearbyPlaces": [
+      "Srisailam",
+      "Hyderabad",
+      "Nalgonda"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Moderate and warm (20°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 160,
+    "baseBudget": {
+      "transportation": 900,
+      "accommodation": 1200,
+      "food": 1000,
+      "entryTickets": 150,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tg-bhadrachalam",
+    "name": "Bhadrachalam",
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "overview": "A holy pilgrimage town situated on the banks of the mighty Godavari River, hosting the famous Rama temple.",
+    "history": "Deeply tied to Bhakta Ramadasu who constructed the temple in the 17th century, drawing devotees from across India.",
+    "whyVisit": "Exploring ancient riverside temples, riding ferries in the scenic Godavari Papi Hills gorge, and holy river bathing.",
+    "famousAttractions": [
+      "Sri Sita Ramachandra Swamy Temple",
+      "Godavari River Ghats",
+      "Abhaya Anjaneya Temple",
+      "Parnasala (Forest retreat)"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Godavari Pulasa Fish curry",
+      "Traditional temple sweet prasadam",
+      "Tapeswaram Kaja"
+    ],
+    "shootingLocations": [
+      "Godavari Riverbank (Papi Kondalu - Godavari movie)"
+    ],
+    "nearbyPlaces": [
+      "Khammam Fort",
+      "Papi Hills",
+      "Rajahmundry"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Tropical and spiritual (22°C - 33°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 310,
+    "baseBudget": {
+      "transportation": 1200,
+      "accommodation": 1300,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tg-ananthagirihills",
+    "name": "Ananthagiri Hills",
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "overview": "The closest forest hill station to Hyderabad, covered with dense flora and serving as the birthplace of the Musi River.",
+    "history": "The hills host the ancient Anantha Padmanabha Swamy Temple, which has been worshipped by regional kings for centuries.",
+    "whyVisit": "Walking through quiet jungle trails, forest camping, viewing the misty sunset, and boating in the serene Kotepally reservoir.",
+    "famousAttractions": [
+      "Anantha Padmanabha Swamy Temple",
+      "Musi River Birthplace",
+      "Kotepally Reservoir (Kayaking)",
+      "Ananthagiri Viewpoint"
+    ],
+    "tags": {
+      "isHillStation": true,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Local Telangana Spiced Jowar roti",
+      "Hot mirchi bajji",
+      "Campfire barbecue"
+    ],
+    "shootingLocations": [
+      "Kotepally Reservoir & Forests (Many Telugu web series and low budget movies)"
+    ],
+    "nearbyPlaces": [
+      "Vikarabad Town",
+      "Hyderabad",
+      "Chilkur Balaji Temple"
+    ],
+    "bestSeason": "Year-round",
+    "climate": "Cool and forest fresh (16°C - 28°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 80,
+    "baseBudget": {
+      "transportation": 600,
+      "accommodation": 1600,
+      "food": 1000,
+      "entryTickets": 50,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tg-alampur",
+    "name": "Alampur",
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "overview": "A historic temple town on the banks of the Tungabhadra River, celebrating the ancient Navabrahma temples.",
+    "history": "Known as the Western Gateway of Srisailam, Alampur houses the sacred Jogulamba temple, a prominent Shakti Peetham built in the 7th century.",
+    "whyVisit": "Admiring ancient Badami Chalukyan stone architecture and studying historical inscriptions.",
+    "famousAttractions": [
+      "Jogulamba Temple (Shakti Peetham)",
+      "Navabrahma Temples",
+      "Sangameswara Temple",
+      "Tungabhadra River Ghats"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": false
+    },
+    "activities": {
+      "trekking": false,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Sweets from Gadwal",
+      "Traditional Rice & Dal thali",
+      "Jowar roti"
+    ],
+    "shootingLocations": [
+      "Alampur Temples (Devotional and historical documentaries)"
+    ],
+    "nearbyPlaces": [
+      "Kurnool",
+      "Gadwal Fort",
+      "Srisailam"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and historic (22°C - 34°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 220,
+    "baseBudget": {
+      "transportation": 1000,
+      "accommodation": 1100,
+      "food": 900,
+      "entryTickets": 50,
+      "miscellaneous": 300
+    }
+  },
+  {
+    "id": "tg-adilabad",
+    "name": "Adilabad (Kuntala Waterfalls)",
+    "state": "Telangana",
+    "district": "Adilabad",
+    "overview": "The highest waterfall in Telangana, where the Kadam river drops 150 feet through dense teakwood forests.",
+    "history": "Associated with local tribal legends of Shakuntala and King Dushyanta, Kuntala falls has preserved a highly serene ecosystem.",
+    "whyVisit": "Trekking through dense teak forests, climbing steps to waterfall viewpoints, and forest photography.",
+    "famousAttractions": [
+      "Kuntala Waterfalls",
+      "Pochera Waterfalls",
+      "Kawal Wildlife Sanctuary",
+      "Basar Saraswathi Temple"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Local forest fruit cuts",
+      "Telangana country egg curry",
+      "Spiced tea"
+    ],
+    "shootingLocations": [
+      "Kuntala Cascades (Tollywood action sequences)"
+    ],
+    "nearbyPlaces": [
+      "Nirmal (Wooden toys city)",
+      "Basar",
+      "Adilabad Town"
+    ],
+    "bestSeason": "September to December",
+    "climate": "Humid and forest fresh (18°C - 31°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 300,
+    "baseBudget": {
+      "transportation": 1100,
+      "accommodation": 1200,
+      "food": 950,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "tg-medak",
+    "name": "Medak",
+    "state": "Telangana",
+    "district": "Medak",
+    "overview": "A quiet town famous for its architectural masterpiece, the towering Medak Cathedral, and a historic hilltop fort.",
+    "history": "The spectacular Gothic-style Medak Cathedral was built by the British Methodist Church in the early 20th century.",
+    "whyVisit": "Admiring giant Italian stained-glass cathedral windows, trekking up to the massive 12th-century hilltop Kakatiya fort.",
+    "famousAttractions": [
+      "Medak Cathedral",
+      "Medak Fort",
+      "Pocharam Wildlife Sanctuary & Dam",
+      "Singur Dam"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Local Butter Biscuits",
+      "Telangana Spiced Biryani",
+      "Chai"
+    ],
+    "shootingLocations": [
+      "Medak Fort (Kakatiya historical travelogues)"
+    ],
+    "nearbyPlaces": [
+      "Hyderabad",
+      "Nizamabad",
+      "Edupayala Temple"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Mild and warm (18°C - 31°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 100,
+    "baseBudget": {
+      "transportation": 600,
+      "accommodation": 1300,
+      "food": 950,
+      "entryTickets": 50,
+      "miscellaneous": 300
+    }
+  },
+  {
+    "id": "tg-nizamabad",
+    "name": "Nizamabad (Alisagar)",
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "overview": "A city combining historic forts and massive green parks like Alisagar deer park, situated close to the Nizam Sagar reservoir.",
+    "history": "Constructed by the Nizams of Hyderabad, Alisagar features extensive tree canopies, deer enclosures, and boating channels.",
+    "whyVisit": "Quiet island boating, viewing spotted deer, forest climbing, and exploring Nizamabad hilltop fort.",
+    "famousAttractions": [
+      "Alisagar Deer Park",
+      "Nizamabad Fort",
+      "Mallaram Forest",
+      "Nizam Sagar Dam",
+      "Ashok Sagar Garden"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Local Nizamabad Biryani",
+      "Sweet Khova",
+      "Osmania Biscuits"
+    ],
+    "shootingLocations": [
+      "Alisagar lakefronts (Regional music tracks)"
+    ],
+    "nearbyPlaces": [
+      "Basar",
+      "Kamareddy",
+      "Medak"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Mild and warm (20°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 170,
+    "baseBudget": {
+      "transportation": 900,
+      "accommodation": 1200,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 300
+    }
+  },
+  {
+    "id": "tg-ramappa",
+    "name": "Ramappa Temple",
+    "state": "Telangana",
+    "district": "Mulugu",
+    "overview": "An architectural masterpiece and UNESCO World Heritage site, displaying lightweight floating bricks and spectacular basalt carvings.",
+    "history": "Built in 1213 CE by General Recharla Rudra during the Kakatiya reign, named uniquely after its chief sculptor Ramappa.",
+    "whyVisit": "Marveling at light-weight bricks that float on water, studying exquisite dancing posture stone brackets, and boating on Ramappa Lake.",
+    "famousAttractions": [
+      "Ramappa Temple (UNESCO)",
+      "Ramappa Lake & Boating",
+      "Eturnagaram Wildlife Sanctuary",
+      "Bogatha Waterfall"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": true,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Telangana country chicken fry",
+      "Gongura rice",
+      "Sarva Pindi"
+    ],
+    "shootingLocations": [
+      "Ramappa Temple (Baahubali-inspired sequences and historical visual shoots)"
+    ],
+    "nearbyPlaces": [
+      "Warangal",
+      "Laknavaram Bridge",
+      "Medaram forest"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Mild and pleasant (18°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 210,
+    "baseBudget": {
+      "transportation": 1000,
+      "accommodation": 1300,
+      "food": 1000,
+      "entryTickets": 100,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-pondicherry",
+    "name": "Pondicherry (Puducherry)",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "The quiet French Riviera of the East, displaying mustard-colored French colonial villas alongside traditional Tamil architecture.",
+    "history": "Served as a premier French colonial settlement in India until 1954, preserving cobblestone streets and rich European heritage.",
+    "whyVisit": "Strolling through quiet, colorful French White Town streets, peaceful meditation at Sri Aurobindo Ashram, and sea walking.",
+    "famousAttractions": [
+      "Promenade Beach (Rock Beach)",
+      "French White Town",
+      "Sri Aurobindo Ashram",
+      "Sacred Heart Basilica",
+      "French War Memorial"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "French Croissants & Baguettes",
+      "Woodfired Pizzas",
+      "Crepes",
+      "Bouillabaisse"
+    ],
+    "shootingLocations": [
+      "White Town & Rock Beach (Life of Pi, Maan Karate)"
+    ],
+    "nearbyPlaces": [
+      "Auroville",
+      "Paradise Beach",
+      "Mahabalipuram"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Coastal and tropical (24°C - 31°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 160,
+    "baseBudget": {
+      "transportation": 780,
+      "accommodation": 1760,
+      "food": 1370,
+      "entryTickets": 100,
+      "miscellaneous": 490
+    }
+  },
+  {
+    "id": "py-auroville",
+    "name": "Auroville",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "An experimental international township dedicated to human unity, hosting the magnificent golden globe Matrimandir.",
+    "history": "Founded in 1968 by Mirra Alfassa ('The Mother'), designed by French architect Roger Anger as a peaceful circular city.",
+    "whyVisit": "Quiet concentration outside the golden Matrimandir, exploring international design pavilions, and tasting organic farm food.",
+    "famousAttractions": [
+      "Matrimandir (Golden Globe)",
+      "Auroville Visitors Centre",
+      "Auroville Forest Trails",
+      "International Pavilions"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": false,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Organic Sourdough pizzas",
+      "Fresh Hibiscus juice",
+      "Vegan chocolate pastries"
+    ],
+    "shootingLocations": [
+      "Matrimandir Garden Walks (Numerous global spiritual documentaries)"
+    ],
+    "nearbyPlaces": [
+      "Pondicherry White Town",
+      "Serenity Beach",
+      "Svaram Music Center"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and green (22°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 165,
+    "baseBudget": {
+      "transportation": 790,
+      "accommodation": 1870,
+      "food": 1290,
+      "entryTickets": 150,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-paradisebeach",
+    "name": "Paradise Beach",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "A clean, secluded white sand island beach accessible exclusively by a scenic ferry ride through backwaters.",
+    "history": "Historically maintained as a peaceful forest beach, preserved with golden sands, high palm trees, and clear waves.",
+    "whyVisit": "Breathtaking 20-minute boat cruise through backwater canals, beach volleyball, and swimming in clear coastal waters.",
+    "famousAttractions": [
+      "Paradise Beach",
+      "Chunnambar backwaters",
+      "Beach Shack huts"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Tender Coconut Water",
+      "Fried Fish cuts",
+      "Fresh pineapple salad"
+    ],
+    "shootingLocations": [
+      "Paradise Beach Ferry (Tamil youth adventure scenes)"
+    ],
+    "nearbyPlaces": [
+      "Chunnambar Boat House",
+      "Pondicherry Town",
+      "Cuddalore Beach"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Coastal and warm (24°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 170,
+    "baseBudget": {
+      "transportation": 900,
+      "accommodation": 1500,
+      "food": 1000,
+      "entryTickets": 300,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-serenitybeach",
+    "name": "Serenity Beach",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "A popular, surf-friendly golden beach surrounded by palm trees and local fishing boats, perfect for sunset walks.",
+    "history": "Long served as a traditional Tamil fishing village, now globally famous for surf boarding schools and seaside cafes.",
+    "whyVisit": "Learning surf-boarding from professional coaches, beach walking over rocky sea blocks, and seaside dinner.",
+    "famousAttractions": [
+      "Serenity Beach",
+      "Serenity Surf Schools",
+      "Seaside Rock Wall Walkway"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": false,
+      "camping": true,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Seafood Fried Rice",
+      "Banana pancakes",
+      "Filter Coffee"
+    ],
+    "shootingLocations": [
+      "Serenity Beach surf waves (Regional youth films)"
+    ],
+    "nearbyPlaces": [
+      "Auroville",
+      "Pondicherry White Town",
+      "Rock Beach"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm coastal breeze (24°C - 33°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 155,
+    "baseBudget": {
+      "transportation": 800,
+      "accommodation": 1600,
+      "food": 1200,
+      "entryTickets": 50,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-chunnambar",
+    "name": "Chunnambar Boat House",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "The primary water adventure hub of Puducherry, located where the Chunnambar river meets the Bay of Bengal.",
+    "history": "Developed by Puducherry Tourism as a gateway to backwater boat cruises, luxury houseboats, and Paradise Beach access.",
+    "whyVisit": "Backwater motorboating, speed boat thrill rides, tree-house viewing, and group riverbank picnics.",
+    "famousAttractions": [
+      "Chunnambar Backwater Canal",
+      "Boating Docks",
+      "Riverbank Treehouses"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": true,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "River crab fry",
+      "Cold mocktails",
+      "Sweet corn cups"
+    ],
+    "shootingLocations": [
+      "Chunnambar river cruises (Regional song sequences)"
+    ],
+    "nearbyPlaces": [
+      "Paradise Beach",
+      "Pondicherry Town",
+      "Arikamedu"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Tropical and warm (23°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 168,
+    "baseBudget": {
+      "transportation": 850,
+      "accommodation": 1500,
+      "food": 1100,
+      "entryTickets": 250,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-ousterilake",
+    "name": "Ousteri Lake",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "A majestic freshwater wetland and bird sanctuary, home to over 40 species of migratory and native birds.",
+    "history": "Historically built as an irrigation lake centuries ago, declared a prominent wildlife sanctuary due to rich bird nesting.",
+    "whyVisit": "Bird-watching, peaceful group pedal-boating, and watching beautiful wetland sunrises.",
+    "famousAttractions": [
+      "Ousteri Lake Bird Sanctuary",
+      "Wetland Boating Point",
+      "Children's Lakefront park"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": true,
+      "isTempleOrMuseum": false,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Hot roasted peanuts",
+      "Chilli bajji with chutney",
+      "Fresh fruit juices"
+    ],
+    "shootingLocations": [
+      "Ousteri Lake (Nature and environment documentaries)"
+    ],
+    "nearbyPlaces": [
+      "Pondicherry Town",
+      "Villupuram",
+      "Auroville"
+    ],
+    "bestSeason": "November to February",
+    "climate": "Mild and refreshing (20°C - 30°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 150,
+    "baseBudget": {
+      "transportation": 750,
+      "accommodation": 1400,
+      "food": 950,
+      "entryTickets": 100,
+      "miscellaneous": 300
+    }
+  },
+  {
+    "id": "py-arikamedu",
+    "name": "Arikamedu",
+    "state": "Puducherry",
+    "district": "Puducherry",
+    "overview": "A prominent archaeological site displaying the ruins of an ancient Indo-Roman trading port on the Ariyankuppam river.",
+    "history": "Excavated by Sir Mortimer Wheeler, Arikamedu traded premium Roman pottery, glass beads, and wine jars from 2nd century BCE to 2nd century CE.",
+    "whyVisit": "Exploring giant ruined brick arches of old warehouses, studying ancient pottery fragments, and riverbank walks.",
+    "famousAttractions": [
+      "Arikamedu Ruined Arches",
+      "Ariyankuppam Riverbank",
+      "Archaeological Excavation display"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": false,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": true,
+      "boating": true,
+      "camping": false,
+      "shopping": false
+    },
+    "foodSpecialities": [
+      "Traditional Tamil snacks",
+      "Samosas",
+      "Coconut water"
+    ],
+    "shootingLocations": [
+      "Arikamedu Brick Arches (Historical and educational series)"
+    ],
+    "nearbyPlaces": [
+      "Chunnambar Boat House",
+      "Pondicherry Town",
+      "Paradise Beach"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm and historical (23°C - 32°C)",
+    "recommendedDuration": "1 Day",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 172,
+    "baseBudget": {
+      "transportation": 850,
+      "accommodation": 1300,
+      "food": 900,
+      "entryTickets": 50,
+      "miscellaneous": 300
+    }
+  },
+  {
+    "id": "py-karaikal",
+    "name": "Karaikal Beach",
+    "state": "Puducherry",
+    "district": "Karaikal",
+    "overview": "A beautiful sandy beach located in Karaikal enclave (surrounded by Tamil Nadu), famous for water recreation.",
+    "history": "A historic port town transferred from French administration in 1954, Karaikal has maintained a pristine sandy shore.",
+    "whyVisit": "Walking on the long coastal marine drive, viewing beautiful sunrise, and visiting nearby historic temples.",
+    "famousAttractions": [
+      "Karaikal Beach Walkway",
+      "Arasalar River Mouth boating",
+      "Karaikal Ammaiyar Temple"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Karaikal Halwa",
+      "Crisp seafood dishes",
+      "Traditional South Indian meals"
+    ],
+    "shootingLocations": [
+      "Karaikal Beachfront (Regional coastal films)"
+    ],
+    "nearbyPlaces": [
+      "Tharangambadi (Tranquebar Dutch Fort)",
+      "Velankanni",
+      "Thanjavur"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Warm coastal breeze (24°C - 33°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 290,
+    "baseBudget": {
+      "transportation": 1100,
+      "accommodation": 1300,
+      "food": 1000,
+      "entryTickets": 50,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-mahe",
+    "name": "Mahe Riverside",
+    "state": "Puducherry",
+    "district": "Mahe",
+    "overview": "A scenic coastal enclave situated on the West Coast (surrounded by Kerala), where the Mahe River joins the Arabian Sea.",
+    "history": "Held as a French colonial post from 1724, Mahe has a unique blend of French history and classic Kerala backwater charm.",
+    "whyVisit": "Walking along the scenic riverside promenade, visiting historic St. Theresa Shrine, and sunset beach picnics.",
+    "famousAttractions": [
+      "Mahe River Walkway Promenade",
+      "Tagore Park",
+      "St. Theresa Shrine",
+      "Manjakkal Hill Beach"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Mahe style Banana fritters",
+      "Spicy Malabar Biryani",
+      "Kerala Fish Curry"
+    ],
+    "shootingLocations": [
+      "Mahe Walkway (Malayalam travel sequences)"
+    ],
+    "nearbyPlaces": [
+      "Kannur Beach",
+      "Kozhikode",
+      "Thalassery Fort"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Tropical and breezy (23°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 580,
+    "baseBudget": {
+      "transportation": 1500,
+      "accommodation": 1400,
+      "food": 1100,
+      "entryTickets": 50,
+      "miscellaneous": 400
+    }
+  },
+  {
+    "id": "py-yanam",
+    "name": "Yanam Botanical Garden",
+    "state": "Puducherry",
+    "district": "Yanam",
+    "overview": "A scenic enclave located in the Godavari delta (surrounded by Andhra Pradesh), featuring French architecture and parks.",
+    "history": "A French colony for over 200 years, Yanam presents a peaceful environment where French monument replicas stand along the Godavari.",
+    "whyVisit": "Strolling through lush green botanical gardens, riverfront park walks, and admiring French Eiffel tower replicas.",
+    "famousAttractions": [
+      "Yanam Botanical Garden",
+      "Eiffel Tower Replica Park",
+      "Godavari Riverfront Walkway",
+      "Yanam Beach"
+    ],
+    "tags": {
+      "isHillStation": false,
+      "isBeach": true,
+      "isWaterfall": false,
+      "isForestOrNationalPark": false,
+      "isTempleOrMuseum": true,
+      "isViewpoint": true
+    },
+    "activities": {
+      "trekking": false,
+      "boating": true,
+      "camping": false,
+      "shopping": true
+    },
+    "foodSpecialities": [
+      "Yanam Godavari Pulasa fish curry",
+      "Andhra Putharekulu sweet",
+      "Gongura Pachadi"
+    ],
+    "shootingLocations": [
+      "Yanam Riverfront (Andhra regional songs and television series)"
+    ],
+    "nearbyPlaces": [
+      "Kakinada",
+      "Rajahmundry",
+      "Coringa Mangroves"
+    ],
+    "bestSeason": "October to March",
+    "climate": "Humid and breezy (23°C - 32°C)",
+    "recommendedDuration": "2 Days, 1 Night",
+    "safetyTips": [
+      "Follow local administrative safety guidelines and timing warnings.",
+      "Ensure group headcount is maintained before leaving key spots."
+    ],
+    "travelDistanceKm": 620,
+    "baseBudget": {
+      "transportation": 1600,
+      "accommodation": 1300,
+      "food": 1000,
+      "entryTickets": 50,
+      "miscellaneous": 300
+    }
+  }
+]

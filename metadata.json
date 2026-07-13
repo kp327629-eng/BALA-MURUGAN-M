@@ -1,0 +1,6 @@
+{
+  "name": "College Trip Planner",
+  "description": "An AI-powered full-stack web application for college trip planning, destination exploration, and student preference collection with a comprehensive admin dashboard and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
