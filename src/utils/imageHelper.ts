@@ -256,7 +256,26 @@ export function getAttractionImage(attractionName: string, quality: "thumb" | "h
     "athirappilly falls": "photo-1470071459604-3b5ec3a7fe05",
     "pine forest": "photo-1473448912268-2022ce9509d8",
     "guna caves": "photo-1507209696998-3c552ef7b875",
-    "toy train": "photo-1532103054090-334e6e60ab29"
+    "toy train": "photo-1532103054090-334e6e60ab29",
+    "bryant park": "photo-1465146344425-f00d5f5c8f07",
+    "silver cascade falls": "photo-1433832597046-4f10e10ac764",
+    "rose garden": "photo-1465146344425-f00d5f5c8f07",
+    "nilgiri mountain railway": "photo-1532103054090-334e6e60ab29",
+    "pykara falls": "photo-1433832597046-4f10e10ac764",
+    "shore temple": "photo-1581335967831-ca5a74ef06b9",
+    "five rathas": "photo-1581335967831-ca5a74ef06b9",
+    "arjuna's penance": "photo-1581335967831-ca5a74ef06b9",
+    "krishna's butterball": "photo-1533105079780-92b9be482077",
+    "mahabalipuram beach": "photo-1507525428034-b723cf961d3e",
+    "meenakshi amman temple": "photo-1621252179027-94459d278660",
+    "thirumalai nayakar mahal": "photo-1590766940554-634a7ed41450",
+    "gandhi memorial museum": "photo-1581335967831-ca5a74ef06b9",
+    "koodal azhagar temple": "photo-1580835123018-8f15d97e88b9",
+    "ramanathaswamy temple": "photo-1580835123018-8f15d97e88b9",
+    "agni theertham": "photo-1507525428034-b723cf961d3e",
+    "dhanushkodi ghost town": "photo-1590050752117-238cb061295a",
+    "pamban bridge": "photo-1548013146-72479768bada",
+    "apj abdul kalam memorial": "photo-1600100397618-b7156f4d2571"
   };
 
   for (const key of Object.keys(directMatches)) {

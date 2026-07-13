@@ -52,6 +52,18 @@ export default function DestinationExplorer({ student, destinations, onSelectPre
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedDest, setSelectedDest] = useState<TouristDestination | null>(null);
   const [previewImgUrl, setPreviewImgUrl] = useState<string | null>(null);
+
+  const handleSelectDest = (dest: TouristDestination) => {
+    setSelectedDest(dest);
+    if (typeof window !== "undefined" && window.innerWidth < 1024) {
+      setTimeout(() => {
+        const detailsEl = document.getElementById("details-panel");
+        if (detailsEl) {
+          detailsEl.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      }, 100);
+    }
+  };
   
   // AI Guide state
   const [aiGuide, setAiGuide] = useState("");
@@ -161,7 +173,7 @@ export default function DestinationExplorer({ student, destinations, onSelectPre
         <div className="max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 pt-6 z-10">
           <PremiumCarousel
             destinations={destinations}
-            onSelect={(dest) => setSelectedDest(dest)}
+            onSelect={(dest) => handleSelectDest(dest)}
           />
         </div>
       )}
@@ -170,7 +182,7 @@ export default function DestinationExplorer({ student, destinations, onSelectPre
       <div className="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 grid grid-cols-1 lg:grid-cols-12 gap-8 z-10">
         
         {/* LEFT PANEL: FILTERS & SPOT DIRECTORY (5 COLS) */}
-        <div className="lg:col-span-5 flex flex-col gap-5 h-[calc(100vh-140px)] min-h-[550px] lg:sticky lg:top-24">
+        <div className="lg:col-span-5 flex flex-col gap-5 h-auto lg:h-[calc(100vh-140px)] lg:min-h-[550px] lg:sticky lg:top-24">
           
           {/* Active State Interactive Hero Banner */}
           <div className="relative h-32 rounded-3xl overflow-hidden border border-white shadow-md shrink-0 group">
@@ -267,7 +279,7 @@ export default function DestinationExplorer({ student, destinations, onSelectPre
                   return (
                     <motion.div
                       key={dest.id}
-                      onClick={() => setSelectedDest(dest)}
+                      onClick={() => handleSelectDest(dest)}
                       whileHover={{ y: -2 }}
                       className={`p-3 rounded-2xl border transition-all duration-300 cursor-pointer flex gap-3.5 items-center relative overflow-hidden ${
                         isSelected
@@ -315,7 +327,7 @@ export default function DestinationExplorer({ student, destinations, onSelectPre
         </div>
 
         {/* RIGHT PANEL: SPOT SPECIFICATIONS & CALCULATORS (7 COLS) */}
-        <div className="lg:col-span-7 h-[calc(100vh-140px)] min-h-[550px] overflow-y-auto pr-1">
+        <div id="details-panel" className="lg:col-span-7 h-auto lg:h-[calc(100vh-140px)] lg:min-h-[550px] overflow-y-auto pr-1 scroll-mt-24">
           <AnimatePresence mode="wait">
             {selectedDest ? (
               <motion.div
