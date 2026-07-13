@@ -45,9 +45,12 @@ export default function App() {
       const response = await fetch("/api/destinations", { signal: controller.signal });
       clearTimeout(timeoutId);
       if (response.ok) {
-        const data = await response.json();
-        if (Array.isArray(data) && data.length > 0) {
-          setDestinations(data);
+        const text = await response.text();
+        if (text && text.trim()) {
+          const data = JSON.parse(text);
+          if (Array.isArray(data) && data.length > 0) {
+            setDestinations(data);
+          }
         }
       }
     } catch (error) {

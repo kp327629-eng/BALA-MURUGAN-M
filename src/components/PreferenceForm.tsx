@@ -94,7 +94,15 @@ export default function PreferenceForm({ student, selectedDestination, onBackToE
         body: JSON.stringify(preferencePayload),
       });
 
-      const data = await response.json();
+      let data: any = {};
+      const responseText = await response.text();
+      if (responseText && responseText.trim()) {
+        try {
+          data = JSON.parse(responseText);
+        } catch (e) {
+          console.error("Failed to parse submissions response:", e);
+        }
+      }
       if (!response.ok) {
         throw new Error(data.error || "Failed to submit preferences.");
       }
@@ -109,9 +117,19 @@ export default function PreferenceForm({ student, selectedDestination, onBackToE
         body: JSON.stringify(preferencePayload),
       });
 
-      const aiData = await aiResponse.json();
-      if (aiResponse.ok) {
-        setAiRecommendation(aiData.recommendation);
+      let aiRecommendationText = "";
+      const aiResponseText = await aiResponse.text();
+      if (aiResponse.ok && aiResponseText && aiResponseText.trim()) {
+        try {
+          const aiData = JSON.parse(aiResponseText);
+          aiRecommendationText = aiData.recommendation || "";
+        } catch (e) {
+          console.error("Failed to parse AI recommendation response:", e);
+        }
+      }
+
+      if (aiRecommendationText) {
+        setAiRecommendation(aiRecommendationText);
       } else {
         setAiRecommendation("Preferences logged successfully! The AI travel engine could not be reached, but your submission was saved.");
       }

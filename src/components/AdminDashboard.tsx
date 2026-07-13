@@ -62,7 +62,15 @@ export default function AdminDashboard({ token, onLogout, destinations, onRefres
       if (!response.ok) {
         throw new Error("Failed to load submissions.");
       }
-      const data = await response.json();
+      let data: any = [];
+      const responseText = await response.text();
+      if (responseText && responseText.trim()) {
+        try {
+          data = JSON.parse(responseText);
+        } catch (e) {
+          console.error("Failed to parse submissions database response:", e);
+        }
+      }
       setSubmissions(data);
     } catch (err: any) {
       console.error(err);
@@ -703,7 +711,15 @@ export default function AdminDashboard({ token, onLogout, destinations, onRefres
         setIsDbModalOpen(false);
         setDbEditDest(null);
       } else {
-        const errorData = await res.json();
+        let errorData: any = {};
+        const resText = await res.text();
+        if (resText && resText.trim()) {
+          try {
+            errorData = JSON.parse(resText);
+          } catch (e) {
+            console.error("Failed to parse edit database error response:", e);
+          }
+        }
         setDbError(errorData.error || "Failed to update tourist database.");
       }
     } catch (err) {

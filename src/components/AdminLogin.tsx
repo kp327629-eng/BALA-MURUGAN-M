@@ -30,7 +30,16 @@ export default function AdminLogin({ onLoginSuccess, onBackToStudent }: AdminLog
         body: JSON.stringify({ username: username.trim(), password }),
       });
 
-      const data = await response.json();
+      let data: any = {};
+      const responseText = await response.text();
+      if (responseText && responseText.trim()) {
+        try {
+          data = JSON.parse(responseText);
+        } catch (e) {
+          console.error("Failed to parse admin login response:", e);
+        }
+      }
+
       if (!response.ok) {
         throw new Error(data.error || "Login failed.");
       }
