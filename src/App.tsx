@@ -10,6 +10,7 @@ import DestinationExplorer from "./components/DestinationExplorer";
 import PreferenceForm from "./components/PreferenceForm";
 import AdminLogin from "./components/AdminLogin";
 import AdminDashboard from "./components/AdminDashboard";
+import { FALLBACK_DESTINATIONS } from "./data/fallbackDestinations";
 
 type AppView = "register" | "explorer" | "preference-form" | "admin-login" | "admin-dashboard";
 
@@ -17,7 +18,7 @@ export default function App() {
   const [currentView, setCurrentView] = useState<AppView>("register");
   const [student, setStudent] = useState<StudentRegistration | null>(null);
   const [selectedDestination, setSelectedDestination] = useState<TouristDestination | null>(null);
-  const [destinations, setDestinations] = useState<TouristDestination[]>([]);
+  const [destinations, setDestinations] = useState<TouristDestination[]>(FALLBACK_DESTINATIONS);
   
   // Admin credentials state
   const [adminToken, setAdminToken] = useState<string | null>(null);
@@ -37,14 +38,20 @@ export default function App() {
   }, []);
 
   const fetchDestinations = async () => {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 1500); // 1.5 second timeout
+
     try {
-      const response = await fetch("/api/destinations");
+      const response = await fetch("/api/destinations", { signal: controller.signal });
+      clearTimeout(timeoutId);
       if (response.ok) {
         const data = await response.json();
-        setDestinations(data);
+        if (Array.isArray(data) && data.length > 0) {
+          setDestinations(data);
+        }
       }
     } catch (error) {
-      console.error("Error loading tourist destinations:", error);
+      console.warn("Failed or timed out fetching dynamic destinations; using premium fallback.", error);
     }
   };
 
