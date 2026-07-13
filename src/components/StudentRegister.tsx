@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import React, { useState, useRef } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { 
   Compass, 
@@ -60,6 +60,19 @@ export default function StudentRegister({ onRegister, onAdminClick }: StudentReg
   const [focusedField, setFocusedField] = useState<string | null>(null);
   const [videoLoaded, setVideoLoaded] = useState(false);
   const [videoFailed, setVideoFailed] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const checkMobile = () => {
+      const mobileAgent = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent
+      );
+      setIsMobile(window.innerWidth < 768 || mobileAgent);
+    };
+    checkMobile();
+    window.addEventListener("resize", checkMobile);
+    return () => window.removeEventListener("resize", checkMobile);
+  }, []);
 
   const formRef = useRef<HTMLDivElement>(null);
 
@@ -156,7 +169,7 @@ export default function StudentRegister({ onRegister, onAdminClick }: StudentReg
       {/* HERO SECTION */}
       <section className="relative w-full py-20 lg:py-36 flex flex-col items-center justify-center overflow-hidden z-10 px-4 sm:px-6 lg:px-8 border-b border-slate-100 pb-24 lg:pb-40">
         <div className="absolute inset-0 z-0">
-          {!videoFailed && (
+          {!isMobile && !videoFailed && (
             <video
               autoPlay
               loop
@@ -171,9 +184,9 @@ export default function StudentRegister({ onRegister, onAdminClick }: StudentReg
               <source src="https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-a-winding-road-in-a-green-forest-42641-large.mp4" type="video/mp4" />
             </video>
           )}
-          {(!videoLoaded || videoFailed) && (
+          {(isMobile || !videoLoaded || videoFailed) && (
             <img
-              src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1920&q=80"
+              src={`https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=${isMobile ? "800" : "1920"}&q=80`}
               alt="Adventure Travel"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

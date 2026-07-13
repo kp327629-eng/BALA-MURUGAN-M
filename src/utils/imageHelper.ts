@@ -320,14 +320,22 @@ export function getActivityImage(activityKey: string, quality: "thumb" | "hd" = 
 function getUnsplashUrl(imageId: string, quality: "thumb" | "hd" | "original"): string {
   const base = `https://images.unsplash.com/${imageId}`;
   
+  // Detect if browser/mobile is active and optimize resolution accordingly
+  const isMobileSize = typeof window !== "undefined" && window.innerWidth < 768;
+
   if (quality === "thumb") {
     // Optimized for small card thumbnails
-    return `${base}?auto=format&fit=crop&w=400&h=300&q=80`;
+    const width = isMobileSize ? 280 : 400;
+    const height = isMobileSize ? 210 : 300;
+    return `${base}?auto=format&fit=crop&w=${width}&h=${height}&q=75`;
   }
   if (quality === "hd") {
-    // High Definition for desktop hero / large cards
-    return `${base}?auto=format&fit=crop&w=1200&h=675&q=85`;
+    // High Definition for desktop hero / large cards, but compressed for mobile
+    const width = isMobileSize ? 640 : 1200;
+    const height = isMobileSize ? 360 : 675;
+    return `${base}?auto=format&fit=crop&w=${width}&h=${height}&q=80`;
   }
-  // "original" - Maximum original quality / high definition (4K Ultra HD)
-  return `${base}?auto=format&fit=crop&w=3840&q=95`;
+  // "original" - Maximum original quality (4K on desktop, but capped on mobile)
+  const width = isMobileSize ? 900 : 1920;
+  return `${base}?auto=format&fit=crop&w=${width}&q=85`;
 }
